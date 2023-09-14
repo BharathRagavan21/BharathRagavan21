@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning **IoT**
 
-- 👨‍💻 All of my projects are available at [https://sites.google.com/view/bharathragavan21?usp=sharing](https://sites.google.com/view/bharathragavan21?usp=sharing)
+- 👨‍💻 All of my projects are available here.
 
 - 💬 Ask me about **Robotics**
 
