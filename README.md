@@ -1,4 +1,4 @@
-[![MasterHead](https://wallpapers.com/images/high/technology-linkedin-background-mjv7fb4mwtkupgw7.webp)]
+![MasterHead](https://wallpapers.com/images/high/technology-linkedin-background-mjv7fb4mwtkupgw7.webp)
 <h1 align="center"><b>Hi 👋, I'm Bharath Ragavan R </b></h1>
 <h3 align="center">Passionate about electronics, python, robotics, IoT and AI</h3>
 
